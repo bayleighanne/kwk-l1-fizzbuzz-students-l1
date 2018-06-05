@@ -9,3 +9,5 @@ def fizzbuzz(number)
 end
 
 puts fizzbuzz(15)
+puts fizzbuzz(9)
+put
